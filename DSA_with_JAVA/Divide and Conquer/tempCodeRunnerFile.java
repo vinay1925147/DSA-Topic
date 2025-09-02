@@ -1,0 +1,1 @@
+ // if(isSafe(board , row ,j))
